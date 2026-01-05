@@ -1,16 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Portfolio2 — 3D Interactive Portfolio
 
-Currently, two official plugins are available:
+A **modern 3D portfolio website** built using **React** and **React Three Fiber**, inspired by the immersive, minimal, and motion-driven design philosophy of **Dogstudio**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This portfolio focuses on **smooth animations, 3D visuals, and interactive storytelling** to showcase projects and skills in a unique way.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ⚛️ Built with **React**
+- 🧊 Real-time **3D scenes using React Three Fiber**
+- 🎥 Smooth camera movements & animations
+- 🌍 Immersive scroll-based interactions
+- 💡 Minimal & aesthetic UI inspired by **Dogstudio**
+- 🚀 Optimized performance for web
+- 📱 Responsive design (desktop-first experience)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **React Three Fiber**
+- **Three.js**
+- **@react-three/drei**
+- **GSAP / Framer Motion** (for animations)
+- **Tailwind CSS / CSS Modules** (for styling)
+- **Vite** 
+
+
+
+
