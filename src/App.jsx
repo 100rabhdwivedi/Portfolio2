@@ -1,8 +1,11 @@
-import React from 'react'
+import { Canvas } from '@react-three/fiber'
 import './App.css'
+import Dog from './components/Dog'
 const App = () => {
   return (
-    <div></div>
+    <Canvas>
+    <Dog/>
+    </Canvas>
   )
 }
 
